@@ -26,7 +26,7 @@ public class RightClick {
 		act.contextClick(linkText).perform();
 		
 		Robot r=new Robot();
-		r.keyPress(KeyEvent.VK_W);
+	
 	}
 
 }
