@@ -28,5 +28,5 @@ public class RightClick {
 		Robot r=new Robot();
 		r.keyPress(KeyEvent.VK_W);
 	}
-
+	
 }
